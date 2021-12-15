@@ -76,12 +76,11 @@ function App() {
       console.log(e);
     }
   };
-  console.log(meanings);
+ 
 
   useEffect(() => {
-    console.log(category);
     dictAPI();
-  }, [word, category]);
+  }, [ category, word]);
 
   return (
     <div
