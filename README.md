@@ -3,8 +3,6 @@
 Minimalistic dictionary PWA supporting  12 languages. Contains Rus/Eng ver. and Dark/Light Mode. <br/>
 Data provided by [Free Dictionary API](https://dictionaryapi.dev/).
 
-![image](https://user-images.githubusercontent.com/56282063/148345788-ae58c327-f05e-454a-9dd2-5fbe8599799a.png)
-
 ## Build with
 - ReactJS
 - Material UI
